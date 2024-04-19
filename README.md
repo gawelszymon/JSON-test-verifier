@@ -9,6 +9,12 @@ then unpack it and add two extra files to "project structure libraries" from dow
 If you don't have enough time for configurate your ide, you can also run a file, which does not require any extra stuffs.
 I took into the action each possible situation and errors, so there cannot be any difficulties with performing a code, if only IDE is properly configured.
 
-<h5>Solution with Log4j- JsonPolicyVerifierLogs.java</h5>
+<h5>Solution with Log4j -> src/main/java/com/example/test_projekt/JsonPolicyVerifierLogs.java</h5>
 
-<h5>Solution without Log4j- JsonPolicyVerifier.java</h5>
+<h5>Solution without Log4j -> src/main/java/com/example/test_projekt/JsonPolicyVerifierLogs.java</h5>
+
+<h5>File with exemplary JSON data (in console executed program asks user about the path to the JSON file) -> src/exemplaryData.json</h5>
+
+<h5>File with Log4j configuration -> src/main/resources/log4j2.xml</h5>
+
+<h6>Hope everything fine :)</h6>
