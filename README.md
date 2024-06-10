@@ -1,5 +1,4 @@
-# Remitly-test-exercise
-In this repository you find a solution for Remitly Internship 2024 exercise.
+# JSON verifier
 To run this project you must have a basic configurated IDE for programming in java (my java version is "OpenJDK 11.0.22") with addition Log4j package. 
 To deploy Log4j library you have to download an appriopriate .zip from "https://logging.apache.org/log4j/2.x/download.html", 
 then unpack it and add two extra files to "project structure libraries" from downloaded, unpacked file obviously.: 
